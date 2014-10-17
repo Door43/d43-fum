@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fum:home|Door43 (fum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fum|d43-fum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fum/archive/master.zip|d43-fum.zip]]
+
+**Recent Changes**
+{{changes>ns = fum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fum|Ethnologue data]]
+
